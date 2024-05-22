@@ -1,4 +1,4 @@
-@media only screen and (min-device-width: 430px) and (max-device-width: 933px){
+@media only screen and (min-device-width: 300px) and (max-device-width: 933px){
     .global__blocks{
         display: flex;
         flex-direction: column;
